@@ -1,0 +1,7 @@
+C:\Users\Thabani\source\repos\wasuService\bin\wasuService.dll.config
+C:\Users\Thabani\source\repos\wasuService\bin\wasuService.dll
+C:\Users\Thabani\source\repos\wasuService\bin\wasuService.pdb
+C:\Users\Thabani\source\repos\wasuService\obj\Debug\wasuService.csprojAssemblyReference.cache
+C:\Users\Thabani\source\repos\wasuService\obj\Debug\wasuService.csproj.CoreCompileInputs.cache
+C:\Users\Thabani\source\repos\wasuService\obj\Debug\wasuService.dll
+C:\Users\Thabani\source\repos\wasuService\obj\Debug\wasuService.pdb
