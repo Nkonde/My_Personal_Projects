@@ -1,5 +1,7 @@
 # My Projects 
 
+## Wasu_e-learning_system
+
 ### Problem Statement 
 
 ### Proporsed Solutins 
@@ -8,11 +10,11 @@
 
 #### User Managent
 
-![](usercases/UserM.png)
+![](wasu_e-learning_system/usercases/UserM.png)
 
 #### Admin Managent
 
-![](usercases/admin.png)
+![](wasu_e-learning_system/usercases/admin.png)
 #### Marks Managent
 
-![](usercases/marksM.png)
+![](wasu_e-learning_system/usercases/marksM.png)
