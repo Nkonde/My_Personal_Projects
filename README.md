@@ -1,10 +1,18 @@
 # My Projects 
 
-#### Problem Statement 
+### Problem Statement 
 
-#### Proporsed Solutins 
+### Proporsed Solutins 
 
-#### User Casses 
+### User Casses for Functional Requirements
 
-![Alt text](../usercases/marksM.png?raw=true "User Managment")
+#### User Managent
 
+![](usercases/UserM.png)
+
+#### Admin Managent
+
+![](usercases/admin.png)
+#### Marks Managent
+
+![](usercases/marksM.png)
