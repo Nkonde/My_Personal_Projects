@@ -1,6 +1,4 @@
-# My Projects 
-
-## Java Snake Game
+# My Real life Project
 
 ## Wasu_e-learning_system
 
