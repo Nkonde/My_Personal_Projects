@@ -1,14 +1,13 @@
 # My Projects 
 
-<<<<<<< HEAD
+
 ## Wasu_e-learning_system
 
 ### Problem Statement 
-=======
+
 ### Problem Statement
 
 Learners from public schools were unable to adapt to online learning because they were using Whatsapp for learning. 
->>>>>>> 3862f0ce1cc24600634eed69d0e689adbff9186f
 
 ### Proporsed Solutins 
 
