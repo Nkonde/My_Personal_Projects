@@ -5,7 +5,6 @@
 
 ### Problem Statement 
 
-### Problem Statement
 
 Learners from public schools were unable to adapt to online learning because they were using Whatsapp for learning. 
 
